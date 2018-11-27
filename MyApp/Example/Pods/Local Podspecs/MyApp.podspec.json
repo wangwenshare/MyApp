@@ -1,0 +1,22 @@
+{
+  "name": "MyApp",
+  "version": "0.1.0",
+  "summary": "A short description of MyApp.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/汪文/MyApp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "汪文": "0380008924@hxct.com"
+  },
+  "source": {
+    "git": "https://github.com/汪文/MyApp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyApp/Classes/**/*"
+}
